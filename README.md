@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/134366902?v=4" align="center" style="width: 100%; height:400px;" />
-</div>  
+ 
   
 
 ### <div align="center">I'm Kashif Khan, a full-time full-stack developer 👨‍💻 working since 2024 🚀</div>  
