@@ -4,7 +4,7 @@
 ### <div align="center">I'm Kashif Khan, a full-time full-stack developer 👨‍💻 working since 2024 🚀</div>  
   
 
-// - 🔭 I’m currently working on [CRM10X](https://crm10x.nsolbpo.com/)
+<!-- - 🔭 I’m currently working on [CRM10X](https://crm10x.nsolbpo.com/) -->
 - - 🔭 I’m currently working on [10xGlobal EPOS System](https://10xglobal.co.uk/)  
   
 
