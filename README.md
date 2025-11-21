@@ -5,7 +5,7 @@
   
 
 <!-- - 🔭 I’m currently working on [CRM10X](https://crm10x.nsolbpo.com/) -->
-- - 🔭 I’m currently working on [10xGlobal EPOS System](https://10xglobal.co.uk/)  
+- 🔭 I’m currently working on [10xGlobal EPOS System](https://10xglobal.co.uk/)  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
