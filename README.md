@@ -49,4 +49,10 @@
 
 ---
 
+
+## GitHub Statistics
+- ![Followers](https://img.shields.io/github/followers/KashifKhan456?style=social)
+- ![Repos](https://img.shields.io/badge/Repositories-?-blue)
+- [![GitHub Stars](https://img.shields.io/github/stars/KashifKhan456?style=social)](https://github.com/KashifKhan456)
+
 Last updated: 2026-03-09 07:55:18 (UTC)
