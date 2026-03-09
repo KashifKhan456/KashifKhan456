@@ -1,7 +1,7 @@
 # Professional Profile
 
 ## Full-Stack Developer
-- **Experience**: Since 2024
+- **Experience**: Since 2023
 - **Current Project**: Working on [10xGlobal EPOS System](https://smashngrub.10xglobal.co.uk/)
 
 ## Skills
