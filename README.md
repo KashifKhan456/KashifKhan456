@@ -1,33 +1,52 @@
-# 👋 About Me
+# Professional Profile
 
-Hi there! I'm Kashif Khan, a passionate software developer with a focus on creating impactful and scalable applications. I love exploring new technologies and continuously improving my skills.
+## Full-Stack Developer
+- **Experience**: Since 2024
+- **Current Project**: Working on [10xGlobal EPOS System](https://10xglobal.com).
+
+## Skills
+
+### Frontend Technologies
+- React
+- Vue
+- Bootstrap
+- Tailwind
+- Redux
+- Chart.js
+- jQuery
+
+### Backend Technologies
+- Node.js
+- Express
+- PHP
+- MongoDB
+- MySQL
+- MariaDB
+- WordPress
+- Nginx
+
+### DevOps Skills
+- AWS
+- Kubernetes
+- Linux
+- Git
+- Bash
+- Nginx
+- Docker
+
+## Learning
+- Hyperledger
+- Kubernetes
+
+## Professional Links
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kashifkhan)
+- Portfolio: [Your Portfolio Website](https://yourportfolio.com)
+
+## GitHub Statistics
+- **Total Repositories**: 50
+- **Followers**: 200
+- **Stars**: 300
 
 ---
 
-# 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=ffffff) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)
-
----
-
-# 🌟 Projects
-
-- **Project 1**: Description of project 1.
-- **Project 2**: Description of project 2.
-- **Project 3**: Description of project 3.
-
----
-
-# 📫 Contact Information
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-
----
-
-# 📊 GitHub Stats
-
-![Kashif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KashifKhan456&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
----
+Last updated: 2026-03-09 07:55:18 (UTC)
