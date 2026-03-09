@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer
 - **Experience**: Since 2024
-- **Current Project**: Working on [10xGlobal EPOS System](https://10xglobal.com](https://smashngrub.10xglobal.co.uk/).
+- **Current Project**: Working on [10xGlobal EPOS System](https://smashngrub.10xglobal.co.uk/)
 
 ## Skills
 
