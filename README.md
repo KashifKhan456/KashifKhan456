@@ -1,43 +1,32 @@
 # Hello, I'm Kashif Khan
 
-## 👨‍💻 About Me
+## 👔 Professional Summary
+Welcome to my profile! I am a passionate developer focusing on delivering innovative software solutions.
 
-I'm a Full-Stack Developer passionate about building user-friendly web applications. With experience in both front-end and back-end technologies, I love turning ideas into reality.
-
-## 🌱 Current Projects
-
-- **Project A:** A web application for managing tasks with real-time collaboration.
-- **Project B:** An interactive portfolio website to showcase my work.
+## 🚀 Current Projects
+- **10xGlobal EPOS System**  
+  Working on an advanced electronic point of sale system to enhance retail operations.
 
 ## 🎯 Learning Goals
+- **Hyperledger**  
+  Exploring blockchain technology for building decentralized applications.  
+- **Kubernetes**  
+  Learning container orchestration to improve deployment and scaling processes.
 
-- Deepening my knowledge of cloud platforms like AWS and Azure.
-- Exploring more about machine learning and AI integration.
+## 🛠️ Skills
+### Frontend
+- HTML, CSS, JavaScript, React, Vue.js
+### Backend
+- Node.js, Express, MongoDB, Python
+### DevOps
+- Docker, CI/CD, AWS, Azure
 
-## 🤝 Connect With Me
+## 📱 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/myprofile)  
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/myprofile)  
 
-- [LinkedIn](https://www.linkedin.com/in/kashif-khan)
-- [GitHub](https://github.com/KashifKhan456)
-- [Twitter](https://twitter.com/Kashif_Khan456)
+## 📊 GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=KashifKhan456&show_icons=true&theme=radical)  
 
-## 🎨 Design Inspiration
-
-My design focuses on simplicity and modern aesthetics with animated elements to engage users.
-
----
-
-```css
-/* Sample CSS for animations */
-@keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-}
-
-.animated {
-    animation: fadeIn 1s ease;
-}
-```
-
----
-
-Thank you for visiting my profile!
+---  
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate!  
