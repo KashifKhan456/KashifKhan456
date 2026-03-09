@@ -43,16 +43,10 @@
 - Portfolio: [Portfolio](https://yourportfolio.com)
 
 ## GitHub Statistics
-- **Total Repositories**: 50
-- **Followers**: 200
-- **Stars**: 300
+- **Total Repositories**: 14
+- **Followers**: 3
+- **Stars**: 0.00
 
 ---
 
-
-## GitHub Statistics
-- ![Followers](https://img.shields.io/github/followers/KashifKhan456?style=social)
-- ![Repos](https://img.shields.io/badge/Repositories-?-blue)
-- [![GitHub Stars](https://img.shields.io/github/stars/KashifKhan456?style=social)](https://github.com/KashifKhan456)
-
-Last updated: 2026-03-09 07:55:18 (UTC)
+Thanks for visiting my GitHub profile! Feel free to check out my projects, leave a star ⭐, or reach out if you’d like to collaborate.
