@@ -1,32 +1,33 @@
-# Hello, I'm Kashif Khan
+# 👋 About Me
 
-## 👔 Professional Summary
-Welcome to my profile! I am a passionate developer focusing on delivering innovative software solutions.
+Hi there! I'm Kashif Khan, a passionate software developer with a focus on creating impactful and scalable applications. I love exploring new technologies and continuously improving my skills.
 
-## 🚀 Current Projects
-- **10xGlobal EPOS System**  
-  Working on an advanced electronic point of sale system to enhance retail operations.
+---
 
-## 🎯 Learning Goals
-- **Hyperledger**  
-  Exploring blockchain technology for building decentralized applications.  
-- **Kubernetes**  
-  Learning container orchestration to improve deployment and scaling processes.
+# 🛠 Tech Stack
 
-## 🛠️ Skills
-### Frontend
-- HTML, CSS, JavaScript, React, Vue.js
-### Backend
-- Node.js, Express, MongoDB, Python
-### DevOps
-- Docker, CI/CD, AWS, Azure
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=ffffff) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)
 
-## 📱 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/myprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/myprofile)  
+---
 
-## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=KashifKhan456&show_icons=true&theme=radical)  
+# 🌟 Projects
 
----  
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate!  
+- **Project 1**: Description of project 1.
+- **Project 2**: Description of project 2.
+- **Project 3**: Description of project 3.
+
+---
+
+# 📫 Contact Information
+
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+
+---
+
+# 📊 GitHub Stats
+
+![Kashif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KashifKhan456&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+---
