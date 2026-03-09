@@ -40,7 +40,7 @@
 
 ## Professional Links
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kashif-khan456/)
-- Portfolio: [Your Portfolio Website](https://yourportfolio.com)
+- Portfolio: [Portfolio](https://yourportfolio.com)
 
 ## GitHub Statistics
 - **Total Repositories**: 50
