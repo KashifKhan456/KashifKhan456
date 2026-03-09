@@ -39,7 +39,7 @@
 - Kubernetes
 
 ## Professional Links
-- LinkedIn: [LinkedIn Profile]([www.linkedin.com/in/kashif-khan456](https://www.linkedin.com/in/kashif-khan456/))
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kashif-khan456/)
 - Portfolio: [Your Portfolio Website](https://yourportfolio.com)
 
 ## GitHub Statistics
