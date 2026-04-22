@@ -16,11 +16,11 @@
 - jQuery
 
 ### Backend Technologies
+- PHP Laravel
+- MySQL
 - Node.js
 - Express
-- PHP
 - MongoDB
-- MySQL
 - MariaDB
 - WordPress
 - Nginx
