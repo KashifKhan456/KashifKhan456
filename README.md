@@ -1,4 +1,4 @@
-# Professional Profile
+<!-- # Professional Profile
 
 ## Full-Stack Developer
 - **Experience**: Since 2023
@@ -55,7 +55,7 @@
 
 Thanks for visiting my GitHub profile! Feel free to check out my projects, leave a star ⭐, or reach out if you’d like to collaborate.
 
-
+-->
 
 
 
@@ -178,6 +178,6 @@ Thanks for visiting my GitHub profile! Feel free to check out my projects, leave
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
-
+Thanks for visiting my GitHub profile! Feel free to check out my projects, leave a star ⭐, or reach out if you’d like to collaborate.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
