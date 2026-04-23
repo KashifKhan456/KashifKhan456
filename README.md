@@ -42,10 +42,6 @@
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kashif-khan456/)
 - Portfolio: [Portfolio](https://yourportfolio.com)
 
-## GitHub Statistics
-- **Total Repositories**: 14
-- **Followers**: 3
-- **Stars**: 0.00
 
 ---
 
