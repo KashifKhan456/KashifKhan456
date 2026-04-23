@@ -49,7 +49,7 @@
 
 ---
 
-Thanks for visiting my GitHub profile! Feel free to check out my projects, leave a star ⭐, or reach out if you’d like to collaborate.
+
 
 
 
@@ -96,5 +96,7 @@ Thanks for visiting my GitHub profile! Feel free to check out my projects, leave
 
 ---
 [![](https://komarev.com/ghpvc/?username=KashifKhan456&icon=0&color=0)](https://visitcount.itsvg.in)
+
+Thanks for visiting my GitHub profile! Feel free to check out my projects, leave a star ⭐, or reach out if you’d like to collaborate.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
