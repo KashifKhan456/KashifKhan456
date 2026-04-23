@@ -102,6 +102,39 @@ Thanks for visiting my GitHub profile! Feel free to check out my projects, leave
 - I'm a passionate Full-Stack Developer with hands-on experience building scalable web applications since 2023. I enjoy turning complex problems into simple, efficient, and user-friendly solutions.
 - Currently, I'm working on the 10xGlobal EPOS System, where I contribute to building robust, real-time systems for business operations.
 
+## Skills
+
+### Frontend Technologies
+- React
+- Vue
+- Bootstrap
+- Tailwind
+- Redux
+- Chart.js
+- jQuery
+
+### Backend Technologies
+- PHP Laravel
+- MySQL
+- Node.js
+- Express
+- MongoDB
+- MariaDB
+- WordPress
+- Nginx
+
+### DevOps Skills
+- AWS
+- Kubernetes
+- Linux
+- Git
+- Bash
+- Nginx
+- Docker
+
+## Learning
+- Hyperledger
+- Kubernetes
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
