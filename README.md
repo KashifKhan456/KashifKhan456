@@ -92,11 +92,7 @@ Thanks for visiting my GitHub profile! Feel free to check out my projects, leave
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Simplicity%20is%20the%20ultimate%20sophistication%20in%20software.;Writing%20code%20is%20easy%2C%20writing%20clean%20code%20is%20mastery.;Good%20systems%20scale%2C%20great%20systems%20evolve." alt="Typing introduction" />
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=KashifKhan456">
-    <img src="https://komarev.com/ghpvc/?username=KashifKhan456&label=Profile%20views&color=00FFFF&style=flat-square" alt="KashifKhan456's profile views" />
-  </a>
-</p>
+
 
 ## 📌 About Me
 - I'm a passionate Full-Stack Developer with hands-on experience building scalable web applications since 2023. I enjoy turning complex problems into simple, efficient, and user-friendly solutions.
@@ -179,5 +175,9 @@ Thanks for visiting my GitHub profile! Feel free to check out my projects, leave
 </div>
 
 Thanks for visiting my GitHub profile! Feel free to check out my projects, leave a star ⭐, or reach out if you’d like to collaborate.
-
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=KashifKhan456">
+    <img src="https://komarev.com/ghpvc/?username=KashifKhan456&label=Profile%20views&color=00FFFF&style=flat-square" alt="KashifKhan456's profile views" />
+  </a>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
