@@ -181,3 +181,111 @@ Thanks for visiting my GitHub profile! Feel free to check out my projects, leave
   </a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Kashif%20Khan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Senior+Software+Developer+%7C+Team+Lead;Laravel%2C+React+%26+Vue+Specialist;Building+Scalable+%26+Real-Time+Systems;Tech+Enthusiast+%26+Problem+Solver" alt="Typing introduction" />
+</p>
+
+## 📌 About Me
+
+I am a passionate **Full Stack Software Engineer** and **Team Lead** with hands-on experience building and scaling robust web applications since 2023. I specialize in turning complex architectural challenges into simple, elegant, and highly performant solutions.
+
+- 🔭 **Current Focus:** Contributing to building robust, real-time business operations systems at [10xGlobal EPOS System](https://smashngrub.10xglobal.co.uk/).
+- 💼 **Specialties:** PHP Laravel, Node.js/Express, React, Vue, and Cloud Infrastructure.
+- 🌱 **Learning & Researching:** Distributed ledger technology (Hyperledger) & Advanced Kubernetes orchestration.
+- 💬 **Ask me about:** Web performance, database optimization, and scalable API design.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/chart.js-%23F5788D.svg?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+</p>
+
+### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+</p>
+
+### 🛡️ DevOps, Infrastructure & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <a href="https://github.com/KashifKhan456">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KashifKhan456&show_icons=true&theme=github_dark&border_radius=10" alt="Kashif's GitHub Stats" height="180" />
+  </a>
+  <a href="https://github.com/KashifKhan456">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KashifKhan456&layout=compact&theme=github_dark&border_radius=10" alt="Kashif's Top Languages" height="180" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KashifKhan456&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Kashif's GitHub Streak" height="180" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kashif-khan456/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/Kashif_Noor456" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:kashif.tech.317@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  Thanks for visiting my profile! Feel free to check out my projects, open an issue, or reach out to collaborate. 🚀
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=KashifKhan456">
+    <img src="https://komarev.com/ghpvc/?username=KashifKhan456&label=Profile%20views&color=00FFFF&style=flat-square" alt="Kashif's Profile Views" />
+  </a>
+</p>
+
