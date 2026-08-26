@@ -151,16 +151,17 @@ Thanks for visiting my GitHub profile! Feel free to check out my projects, leave
   </a>
 </p>
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/kashif-khan456/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Kashif_Noor456">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:kashif.tech.317@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kashif-khan456/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/Kashif_Noor456" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:kashif.tech.317@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -263,19 +264,7 @@ I am a passionate **Full Stack Software Engineer** and **Team Lead** with hands-
 
 ---
 
-## 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kashif-khan456/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/Kashif_Noor456" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:kashif.tech.317@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
 
 <br />
 
