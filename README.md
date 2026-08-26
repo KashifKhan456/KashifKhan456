@@ -134,6 +134,7 @@ Thanks for visiting my GitHub profile! Feel free to check out my projects, leave
 </p>
 
  Learning
+ <br />
 - Hyperledger
 - Kubernetes
 
