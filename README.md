@@ -229,22 +229,6 @@ Thanks for visiting my GitHub profile! Feel free to check out my projects, leave
   <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
----
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <a href="https://github.com/KashifKhan456">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KashifKhan456&show_icons=true&theme=github_dark&border_radius=10" alt="Kashif's GitHub Stats" height="180" />
-  </a>
-  <a href="https://github.com/KashifKhan456">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KashifKhan456&layout=compact&theme=github_dark&border_radius=10" alt="Kashif's Top Languages" height="180" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KashifKhan456&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Kashif's GitHub Streak" height="180" />
-</p>
 
 
 
