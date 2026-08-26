@@ -132,7 +132,8 @@ Thanks for visiting my GitHub profile! Feel free to check out my projects, leave
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
-## Learning
+
+ Learning
 - Hyperledger
 - Kubernetes
 
