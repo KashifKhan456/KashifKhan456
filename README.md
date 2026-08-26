@@ -193,22 +193,6 @@ Thanks for visiting my GitHub profile! Feel free to check out my projects, leave
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Kashif%20Khan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Senior+Software+Developer+%7C+Team+Lead;Laravel%2C+React+%26+Vue+Specialist;Building+Scalable+%26+Real-Time+Systems;Tech+Enthusiast+%26+Problem+Solver" alt="Typing introduction" />
-</p>
-
-## 📌 About Me
-
-I am a passionate **Full Stack Software Engineer** and **Team Lead** with hands-on experience building and scaling robust web applications since 2023. I specialize in turning complex architectural challenges into simple, elegant, and highly performant solutions.
-
-- 🔭 **Current Focus:** Contributing to building robust, real-time business operations systems at [10xGlobal EPOS System](https://smashngrub.10xglobal.co.uk/).
-- 💼 **Specialties:** PHP Laravel, Node.js/Express, React, Vue, and Cloud Infrastructure.
-- 🌱 **Learning & Researching:** Distributed ledger technology (Hyperledger) & Advanced Kubernetes orchestration.
-- 💬 **Ask me about:** Web performance, database optimization, and scalable API design.
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -262,19 +246,7 @@ I am a passionate **Full Stack Software Engineer** and **Team Lead** with hands-
   <img src="https://streak-stats.demolab.com/?user=KashifKhan456&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Kashif's GitHub Streak" height="180" />
 </p>
 
----
 
 
 
-<br />
-
-<p align="center">
-  Thanks for visiting my profile! Feel free to check out my projects, open an issue, or reach out to collaborate. 🚀
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=KashifKhan456">
-    <img src="https://komarev.com/ghpvc/?username=KashifKhan456&label=Profile%20views&color=00FFFF&style=flat-square" alt="Kashif's Profile Views" />
-  </a>
-</p>
 
