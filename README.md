@@ -178,9 +178,9 @@ Thanks for visiting my GitHub profile! Feel free to check out my projects, leave
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/KashifKhan456">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KashifKhan456&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="KashifKhan456's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.shion.dev/api?username=KashifKhan456&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="KashifKhan456's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=KashifKhan456&theme=github_dark&hide_border=true&cache_seconds=86400" alt="KashifKhan456's GitHub Streak" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=KashifKhan456&theme=github_dark&hide_border=true&cache_seconds=28800" alt="KashifKhan456's GitHub Streak" height="180em" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=KashifKhan456&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kashif Khan's GitHub Trophies" />
@@ -189,7 +189,7 @@ Thanks for visiting my GitHub profile! Feel free to check out my projects, leave
 ## 🛠️ Languages & Tools
 <p align="center">
   <a href="https://github.com/KashifKhan456">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashifKhan456&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KashifKhan456&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
@@ -223,4 +223,5 @@ Thanks for visiting my GitHub profile! Feel free to check out my projects, leave
   </a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
