@@ -67,7 +67,7 @@
 ## 🛠️ Languages & Tools
 <p align="center">
   <a href="https://github.com/KashifKhan456">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KashifKhan456&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KashifKhan456&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
@@ -186,12 +186,7 @@ Thanks for visiting my GitHub profile! Feel free to check out my projects, leave
   <img src="https://trophy.ryglcloud.net/?username=KashifKhan456&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kashif Khan's GitHub Trophies" />
 </p>
 
-## 🛠️ Languages & Tools
-<p align="center">
-  <a href="https://github.com/KashifKhan456">
-    <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KashifKhan456&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+
 
 ## 🔗 Connect With Me
 <p align="left">
